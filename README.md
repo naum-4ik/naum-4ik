@@ -1,6 +1,6 @@
 # Hi, I'm Ilya
 
-Technical Support / Solutions Engineer: SaaS and API production support, from the first report to the root cause. Moving toward SRE and platform work. I like finding out why things break, and making sure they don't again.
+Technical Support / Solutions Engineer: SaaS and API production support. Moving toward SRE and platform work. I like finding out why things break, and making sure they don't again.
 
 **Now building: [Keepup](https://github.com/naum-4ik/keepup)**, "Habits, together": a habit tracker for one person or a family, kids included.
 Next.js · Supabase (Postgres, RLS, pgTAP) · Web Push · offline PWA · Playwright e2e · CI · encrypted backups with a monthly restore test.
