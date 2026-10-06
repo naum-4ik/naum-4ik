@@ -4,9 +4,17 @@ Technical Support / Solutions Engineer: SaaS and API production support. Moving 
 
 **Now building: [Keepup](https://github.com/naum-4ik/keepup)**, "Habits, together": a habit tracker for one person or a family, kids included.
 Next.js · Supabase (Postgres, RLS, pgTAP) · Web Push · offline PWA · Playwright e2e · CI · encrypted backups with a monthly restore test.
-[Try it](https://keepup-murex.vercel.app)
+[Try it](https://keepup-murex.vercel.app) · [Architecture](https://github.com/naum-4ik/keepup/blob/develop/docs/architecture.md)
 
 **Learning next:** observability (OpenTelemetry, Grafana) and Kubernetes (kind, Helm), ending in a staged incident and a public postmortem.
+
+## Stack
+
+`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Supabase` · `Playwright` · `Vitest` · `GitHub Actions` · `Vercel` · `Python` · `C#`
+
+## Interests
+
+`SRE` · `Observability` · `Kubernetes` · `AI agents` · `Developer tools`
 
 **Earlier:** two 2D games in C# ([Laser Defender](https://github.com/naum-4ik/Laser-Defender), [Dungeon Runner](https://github.com/naum-4ik/Dungeon-Runner)).
 
