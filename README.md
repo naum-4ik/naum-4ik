@@ -4,13 +4,15 @@ Technical Support / Solutions Engineer: SaaS and API production support. Moving 
 
 **Now building: [Keepup](https://github.com/naum-4ik/keepup)**, "Habits, together": a habit tracker for one person or a family, kids included.
 Next.js · Supabase (Postgres, RLS, pgTAP) · Web Push · offline PWA · Playwright e2e · CI · encrypted backups with a monthly restore test.
-[Try it](https://keepup-murex.vercel.app) · [Architecture](https://github.com/naum-4ik/keepup/blob/develop/docs/architecture.md)
+[Try it](https://keepuphabits.vercel.app) · [Architecture](https://github.com/naum-4ik/keepup/blob/develop/docs/architecture.md)
 
-**Learning next:** observability (OpenTelemetry, Grafana) and Kubernetes (kind, Helm), ending in a staged incident and a public postmortem.
+**Observability on Keepup:** OpenTelemetry traces and logs, Grafana Faro in the browser, Grafana Cloud dashboards with deploy markers, uptime checks, SLO burn-rate alerts, and a game day with a public [postmortem](https://github.com/naum-4ik/keepup/blob/main/docs/observability/postmortems/001-production-telemetry-silent.md).
+
+**Learning next:** Kubernetes (kind, Helm).
 
 ## Stack
 
-`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Supabase` · `Playwright` · `Vitest` · `GitHub Actions` · `Vercel` · `Python` · `C#`
+`TypeScript` · `Next.js` · `React` · `PostgreSQL` · `Supabase` · `Playwright` · `Vitest` · `GitHub Actions` · `Vercel` · `OpenTelemetry` · `Grafana` · `Python` · `C#`
 
 ## Interests
 
